@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="example.wog.franklin.website.app" version="0.1.0">
-  <name>Wog Franklin Website App</name>
-  <description>
-    Example Tabris.js App
-  </description>
-  <author email="wogcarver@gmail.com">
-    wog890
-  </author>
-  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+<widget
+	id='wog.magic.app'
+	version='0.1.0'
+	xmlns='http://www.w3.org/ns/widgets'
+	xmlns:cdv='http://cordova.apache.org/ns/1.0'>
+	<name>Wog Magic</name>
+	<description>
+		Wog Magic is the best!
+	</description>
+	<author email='wogcarver@gmail.com'>
+		Warren S. Carver
+	</author>
+	<plugin name="cordova-plugin-firebase-realtime-database" spec="^0.0.2" />
 </widget>

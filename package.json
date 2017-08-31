@@ -1,16 +1,7 @@
 {
-  "name": "wog-franklin-website-app",
-  "version": "0.1.0",
-  "main": "src/app.js",
-  "private": true,
-  "scripts": {
-    "test": "eslint .",
-    "start": "tabris serve"
-  },
-  "dependencies": {
-    "tabris": "2.0.0"
-  },
-  "devDependencies": {
-    "eslint": "4.5.0"
-  }
+	"main": "main.js",
+	"dependencies": {
+		"tabris": "^1.10.0",
+		"backendless": "3.1.18"
+	}
 }
