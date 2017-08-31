@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="example.wog.franklin.website.app" version="0.1.0">
+  <name>Wog Franklin Website App</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="wogcarver@gmail.com">
+    wog890
+  </author>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
